@@ -1,1 +1,4 @@
 # GitHub_test2
+
+ABOUT THIS COURSE
+
