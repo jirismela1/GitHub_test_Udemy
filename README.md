@@ -21,6 +21,10 @@ To get started with this project, just `clone` this repository
 
 RandomNumberGenerator
 
+## Lorem Ipsum
+
+Nam elit nibh, iaculis non volutpat et, sodales non elit. In hac habitasse platea dictumst. Proin semper lacus sed massa pretium, ut posuere lectus convallis. Vivamus tempor convallis justo vel hendrerit. Cras accumsan sapien a orci fringilla, sagittis vehicula massa laoreet. Duis laoreet arcu ut purus eleifend tristique. Donec et pellentesque lorem, sed mattis massa. Vestibulum dui ex, mattis vel tristique eget, cursus ut mauris. Aenean eu sodales ex.
+
 ## Local update
 
 DiceGameDelegate
